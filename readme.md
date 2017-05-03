@@ -32,21 +32,23 @@ In order to complete this project I have been following a set of tutorials/resou
 In this section I will provide screenshots to support my claims.
 
 *The tests are named in alphabetic order, this ensures they run in order.
+
 ![Testing completed](https://cloud.githubusercontent.com/assets/9169793/25676975/11fa8e4c-303c-11e7-9306-804afbfa956b.png)
 
 *The screenshots below demonstrate the HATEOS API working correctly.
-![React/HATEOS demo 1](http://imgur.com/oyRSg52)
 
-![React/HATEOS demo 2](http://imgur.com/zn42Ezh)
 
-![React/HATEOS demo 3](http://imgur.com/zn42Ezh)
+![React/HATEOS demo 1](https://cloud.githubusercontent.com/assets/9169793/25676976/1357d51a-303c-11e7-894d-16b5250f1c17.png)
 
-![React/HATEOS demo 4](http://imgur.com/NqdWQSW)
+![React/HATEOS demo 2](https://cloud.githubusercontent.com/assets/9169793/25676978/14446998-303c-11e7-936a-53c6a476f78e.png)
 
-![React/HATEOS demo 5](http://imgur.com/Pffgk47)
+![React/HATEOS demo 3](https://cloud.githubusercontent.com/assets/9169793/25676979/152e1480-303c-11e7-9d6e-79052dca39b2.png)
 
-![React/HATEOS demo 6](http://imgur.com/Cuf8O3z)
+![React/HATEOS demo 4](https://cloud.githubusercontent.com/assets/9169793/25676980/161909c2-303c-11e7-9989-cb2f7b6b0b06.png)
 
+![React/HATEOS demo 5](https://cloud.githubusercontent.com/assets/9169793/25676982/16fa042c-303c-11e7-8298-694b31e6465d.png)
+
+![React/HATEOS demo 6](https://cloud.githubusercontent.com/assets/9169793/25676983/17fcdd86-303c-11e7-884b-31a3f244476c.png)
 
 
 
@@ -65,9 +67,13 @@ https://keycloak.gitbooks.io/documentation/server_installation/index.html) - Fro
 In this section I will provide screenshots to support my claims.
 
 *The following are a demo of the Keycloak interface:
-![Login Page](http://imgur.com/RQY5u80)
-![Login Page, user login](http://imgur.com/PmcV9Kz)
-![Logged in](http://imgur.com/o4LcWOo)
+
+
+![Login Page](https://cloud.githubusercontent.com/assets/9169793/25676992/1c59563e-303c-11e7-8c3e-0a7e942b739a.png)
+
+![Login Page, user login](https://cloud.githubusercontent.com/assets/9169793/25677000/1e9876a0-303c-11e7-8e56-18a376edb6ea.png)
+
+![Logged in](https://cloud.githubusercontent.com/assets/9169793/25677005/20678674-303c-11e7-97c1-d9c2be8bcfea.png)
 
 
 ## Extra time
