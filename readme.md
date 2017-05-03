@@ -32,7 +32,7 @@ In order to complete this project I have been following a set of tutorials/resou
 In this section I will provide screenshots to support my claims.
 
 *The tests are named in alphabetic order, this ensures they run in order.
-![Testing completed](http://imgur.com/vgIOmTC)
+![Testing completed](https://cloud.githubusercontent.com/assets/9169793/25676975/11fa8e4c-303c-11e7-9306-804afbfa956b.png)
 
 *The screenshots below demonstrate the HATEOS API working correctly.
 ![React/HATEOS demo 1](http://imgur.com/oyRSg52)
